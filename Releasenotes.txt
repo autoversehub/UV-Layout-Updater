@@ -1,0 +1,7 @@
+NEW FEATURES
+- Added an automatic update system
+- Improved the EULA screen
+- Fixed a bug where the login screen would freeze
+
+BUG FIXES
+- Made the 3D window load 50% faster
