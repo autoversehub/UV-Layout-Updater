@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "notes": "Added New Updates",
-  "pub_date": "2026-03-01T00:00:00Z",
+  "notes": "Added automatic update system; improved EULA screen; fixed login freeze; made the 3D window load faster.",
+  "pub_date": "2026-07-01T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/autoversehub/UV-Layout-Updater/releases/download/v1.0.0/autoverse-update-patch.zip"
+      "url": "https://github.com/autoversehub/UV-Layout-Updater/releases/download/V1.0.0/Autoverse UV Master_1.0.0_x64_en-US.msi"
     }
   }
 }
